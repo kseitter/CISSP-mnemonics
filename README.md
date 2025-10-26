@@ -8,7 +8,7 @@ Yet another set of CISSP mnemonics.
 
 ## Must-know
 ### Risk Management Formulas
-*the only mathematics in CISSP!*
+*the only mathematics in CISSP*
 
 ![Hotel Mario 1](https://static.wikia.nocookie.net/cd-i/images/a/a6/STUFF%21.jpg)  | ![Hotel Mario 2](https://static.wikia.nocookie.net/cd-i/images/9/9f/Hotelmario.jpg) |
 ---- | ---- |
